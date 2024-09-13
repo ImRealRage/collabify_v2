@@ -1,4 +1,4 @@
-import GradientBg from '@/components/Gradientbg';
+import GradientBg from '../../../../components/Gradientbg';
 import { SignIn } from '@clerk/nextjs'
 
 export default function Page() {
@@ -8,6 +8,7 @@ export default function Page() {
             {/* Clerk's SignUp component */}
             <SignIn />
           </div>
+          Hellow this is Vini Jod.
         </GradientBg>
       );
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from "@/app/_components/Logo";
+import Logo from "../../../_components/Logo";
 import { UserButton } from '@clerk/nextjs';
 
 function Header() {

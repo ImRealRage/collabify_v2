@@ -1,4 +1,4 @@
-import GradientBg from '@/components/Gradientbg';
+import GradientBg from '../../../../components/Gradientbg';
 import { SignUp } from '@clerk/nextjs';
 
 export default function Page() {
